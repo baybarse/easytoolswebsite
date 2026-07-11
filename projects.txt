@@ -33,3 +33,9 @@ Description: Detects critical issues, performance bottlenecks, and security vuln
 Link: 
 Repo: https://github.com/baybarse/kubernetes-analysis-troubleshhoting-tool
 Tags: Kubernetes
+---
+Title: PDF Everything 
+Description: PDF Everything is a comprehensive, privacy-first PDF manipulation suite built entirely on client-side web technologies.
+Link: https://pdfeverything.easywaytools.online/
+Repo: https://github.com/baybarse/pdfeverything
+Tags: PDF
