@@ -54,9 +54,11 @@ projects.forEach(p => {
   const linkPrimary = p.Link ? `<a href="${p.Link}" target="_blank" rel="noopener noreferrer" class="project-link link-primary">Visit Site</a>` : '';
   const linkSecondary = p.Repo ? `<a href="${p.Repo}" target="_blank" rel="noopener noreferrer" class="project-link link-secondary">GitHub Repo</a>` : '';
   
+  const titleHtml = p.Link ? `<a href="${p.Link}" target="_blank" rel="noopener noreferrer">${p.Title || 'Proje'}</a>` : (p.Title || 'Proje');
+  
   projectsHtml += `
             <div class="project-card" data-tags="${p.tagsArray.join(',').toLowerCase()}">
-                <h3 class="project-title">${p.Title || 'Proje'}</h3>
+                <h3 class="project-title">${titleHtml}</h3>
                 <p class="project-desc">${p.Description || ''}</p>
                 <div class="project-tags">
                     ${tagsHtml}
