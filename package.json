@@ -1,0 +1,12 @@
+{
+  "name": "easytools-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site for Easyway Tools",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "Baybars",
+  "license": "ISC"
+}

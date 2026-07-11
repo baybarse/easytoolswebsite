@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easyway Tools | Practical Tools</title>
+    <meta name="description" content="A collection of simple, practical, and useful tools. Easyway Tools.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="author-card">
+        <h3>Baybarshan Ekiz</h3>
+        <div class="author-links">
+            <a href="https://baybarse.github.io/baybarshanekiz-cv/" target="_blank" title="CV / Resume"><i class="fa-solid fa-address-card"></i> CV / Resume</a>
+            <a href="https://github.com/baybarse" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i> GitHub</a>
+            <a href="https://baybarshanekiz.medium.com/" target="_blank" title="Medium"><i class="fa-brands fa-medium"></i> Medium</a>
+            <a href="https://www.linkedin.com/in/baybarshan-ekiz/?locale=en" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+        </div>
+    </div>
+    <header>
+        <h1>Easyway Tools</h1>
+        <p class="subtitle">My collection of practical and handy tools that solve simple tasks easily.</p>
+        
+        <div class="bmc-container">
+            <a href="https://kreosus.com/baybarse/about" target="_blank" rel="noopener noreferrer" class="bmc-btn">
+                <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Coffee">
+                Buy me a coffee
+            </a>
+        </div>
+    </header>
+
+    <div class="filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        {{FILTERS}}
+    </div>
+
+    <main>
+        <div class="projects-grid">
+            {{PROJECTS}}
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Baybars - Easyway Tools. Made with ❤️ using Open Source.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
