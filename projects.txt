@@ -15,7 +15,7 @@ Tags: Monitoring
 ---
 Title: DevOps-Radar
 Description: Monitor your DevOps processes and tools from a single radar dashboard.
-Link: https://baybarse.github.io/devops-radar/
+Link: https://devopsradar.easywaytools.online/
 Repo: https://github.com/baybarse/devops-radar
 Tags: DevOps
 ---
