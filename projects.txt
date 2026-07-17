@@ -1,14 +1,11 @@
-Title: Suno Playlist Downloader & Translator
-Description: A handy tool to download and translate playlists from Suno.
-Link: https://sunoplaylistdownloadertranslator.easywaytools.online
-Repo: 
-Tags: Media
+
 ---
-Title: StemSplitStudio
-Description: A practical, web-based studio for splitting vocals and instruments from audio files.
-Link: https://splitstudio.easywaytools.online/
-Repo: https://github.com/baybarse/StemSplitStudio
-Tags: Audio
+https://kubernetescostestimator.easywaytools.online/
+Title: Kubernetes-Cloud-Cost-Estimator 
+Description: Shift-left Kubernetes cost estimator, multi-cloud pricing (AWS/Azure/GCP). Region optimizer, 10 best-practice checks, 9 currencies, interactive charts. 100% client-side, no sign-up.
+Link: https://kubernetescostestimator.easywaytools.online/
+Repo: https://github.com/baybarse/Kubernetes-Cloud-Cost-Estimator-
+Tags: Kubernetes Cost Estimate, Docker To Kubernetes Converter
 ---
 Title: OpenUptime
 Description: An open-source, practical uptime monitoring tool to keep track of your websites' accessibility.
@@ -21,6 +18,18 @@ Description: Monitor your DevOps processes and tools from a single radar dashboa
 Link: https://baybarse.github.io/devops-radar/
 Repo: https://github.com/baybarse/devops-radar
 Tags: DevOps
+---
+Title: Suno Playlist Downloader & Translator
+Description: A handy tool to download and translate playlists from Suno.
+Link: https://sunoplaylistdownloadertranslator.easywaytools.online
+Repo: 
+Tags: Media
+---
+Title: StemSplitStudio
+Description: A practical, web-based studio for splitting vocals and instruments from audio files.
+Link: https://splitstudio.easywaytools.online/
+Repo: https://github.com/baybarse/StemSplitStudio
+Tags: Audio
 ---
 Title: SAST-Monorepo
 Description: A centralized monorepo solution for Static Application Security Testing (SAST) processes.
