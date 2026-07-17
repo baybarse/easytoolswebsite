@@ -3,6 +3,12 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Feasywaytools.online%2F)](https://easywaytools.online/)
 [![GitHub Pages](https://img.shields.io/badge/Deployed_on-GitHub_Pages-blue?logo=github)](https://easywaytools.online/)
 
+
+## ☕ Support
+If you find this Superapp and its tools helpful, consider supporting the development of more projects:
+
+<a href="https://kreosus.com/baybarse/about" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 **[Easyway Tools](https://easywaytools.online/)** is a **Superapp** designed to serve as a centralized hub where all my individual projects are gathered. Instead of scattered links and standalone sites, this platform unifies an ever-growing ecosystem of practical, open-source tools under a single roof.
 
 It acts as the main gateway to access everything I build—from DevOps utilities and security monorepos to media converters and PDF manipulation suites. 
@@ -56,7 +62,3 @@ This repository contains the source code for the main directory interface of the
 ## 🤝 Contributing
 Got an idea for a new tool to add to the ecosystem? Contributions, issues, and feature requests are welcome!
 
-## ☕ Support
-If you find this Superapp and its tools helpful, consider supporting the development of more projects:
-
-<a href="https://www.buymeacoffee.com/baybarse" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
