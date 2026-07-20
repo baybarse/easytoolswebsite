@@ -1,6 +1,5 @@
 
 ---
-https://kubernetescostestimator.easywaytools.online/
 Title: Kubernetes-Cloud-Cost-Estimator 
 Description: Shift-left Kubernetes cost estimator, multi-cloud pricing (AWS/Azure/GCP). Region optimizer, 10 best-practice checks, 9 currencies, interactive charts. 100% client-side, no sign-up.
 Link: https://kubernetescostestimator.easywaytools.online/
@@ -33,7 +32,7 @@ Tags: Audio
 ---
 Title: Video-File-Converter
 Description: Free browser video editor — 15 tools (GIF, resize, crop, rotate, flip, reverse, cut, speed, merge, compress, extract audio, mute, watermark, thumbnail, convert). No upload, 100% private. Powered by ffmpeg.wasm.
-Link: videoconverter.easywaytools.online
+Link: https://videoconverter.easywaytools.online/
 Repo: https://github.com/baybarse/Video-File-Converter
 Tags: Video
 ---
